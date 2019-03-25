@@ -9,6 +9,8 @@
 
 ### Monocular-based 3D Object Detection
 
+* **Frustum PointNets:** Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas."Frustum PointNets for 3D Object Detection from RGB-D Data"[[paper](https://arxiv.org/pdf/1711.08488.pdf)]
+
 
 
 
