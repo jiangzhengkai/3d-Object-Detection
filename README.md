@@ -9,6 +9,8 @@
 
 ### Monocular-based 3D Object Detection
 
+* **Monocular 3D :** Xinshuo Weng, Kris Kitani. Guibas."Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud"[[paper](https://arxiv.org/pdf/1903.09847.pdf)]
+
 * **Frustum PointNets:** Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas."Frustum PointNets for 3D Object Detection from RGB-D Data"[[paper](https://arxiv.org/pdf/1711.08488.pdf)]
 
 
