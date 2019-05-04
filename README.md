@@ -1,6 +1,5 @@
 # 3d Object Detection
-
-3d object detection
+'''
 |———— PointCloud 
 |     |———— Volumetric Grids
 |     |———— Inherent Geometric
@@ -8,7 +7,7 @@
 |     |———— Monocular 
 |     |———— Stereo
 |———— Fusion of PointCloud and Camera
-
+'''
 ### Volumetric Grids
 * **VoxelNet:** Yin Zhou, Oncel Tuzel."VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection."[[paper](https://arxiv.org/pdf/1711.06396.pdf)]
 * **Second:** Yan Yan, Yuxing Mao, Bo Li."SECOND: Sparsely Embedded Convolutional Detection."[[paper](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)] [[code](https://github.com/traveller59/second.pytorch)]
