@@ -3,10 +3,10 @@
 |———— PointCloud 
 |     |———— Volumetric Grids
 |     |———— Inherent Geometric
-|———— Camera
+|———— Image
 |     |———— Monocular 
 |     |———— Stereo
-|———— Fusion of PointCloud and Camera
+|———— Fusion of PointCloud and Image
 ```
 ### Volumetric Grids
 * **VoxelNet:** Yin Zhou, Oncel Tuzel."VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection."[[paper](https://arxiv.org/pdf/1711.06396.pdf)]
@@ -26,7 +26,7 @@
 ### Stereo-based
 * **Stereo R-CNN:** Peiliang Li,Xiaozhi Chen, and Shaojie Shen."Stereo R-CNN based 3D Object Detection for Autonomous Driving."[[paper](https://arxiv.org/pdf/1902.09738.pdf)]
 
-### Fusion of PointCloud and Camera
+### Fusion of PointCloud and Image
 * **MV3D:** Xiaozhi Chen,Huimin Ma,Ji Wan,Bo Li and Tian Xia."Multi-View 3D Object Detection Network for Autonomous Driving."[[paper](https://arxiv.org/abs/1611.07759)]
 
 
