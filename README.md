@@ -18,6 +18,7 @@
 
 
 ### Inherent Geometric Features 
+* **3D Geometry:** Arsalan Mousavian, Dragomir Anguelov, John Flynn, Jana Koseck."3D Bounding Box Estimation Using Deep Learning And Geometry"[[paper](https://arxiv.org/pdf/1612.00496.pdf)]
 * **Frustum PointNets:** Charles R. Qi, Wei Liu, Chenxia Wu, Hao Su, Leonidas J. Guibas."Frustum PointNets for 3D Object Detection from RGB-D Data"[[paper](https://arxiv.org/pdf/1711.08488.pdf)]
 * **PointRCNN:** Shaoshuai Shi, Xiaogang Wang, Hongsheng li."PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud"[[paper](https://arxiv.org/abs/1812.04244)]
 
