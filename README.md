@@ -10,6 +10,7 @@
 ```
 ### Volumetric Grids
 * **VoxelNet:** Yin Zhou, Oncel Tuzel."VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection."[[paper](https://arxiv.org/pdf/1711.06396.pdf)]
+* **PIXOR:** Bin Yang, Wenjie Luo, Raquel Urtasun."PIXOR: Real-time 3D Object Detection from Point CLouds."[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)]
 * **Second:** Yan Yan, Yuxing Mao, Bo Li."SECOND: Sparsely Embedded Convolutional Detection."[[paper](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)] [[code](https://github.com/traveller59/second.pytorch)]
 * **PointPillars:** Alex H. Lang, Sourabh Vora, Holger Caesar, Lubing Zhou, Jiong Yang."PointPillars: Fast Encoders for Object Detection from Point Clouds."[[paper](https://arxiv.org/pdf/1812.05784.pdf)] [[code](https://github.com/nutonomy/second.pytorch)]
 * **FocalLoss3d:** Peng Yun, Lei Tai, Yuan Wang, Chengju Liu, Ming Liu."Focal Loss in 3D Object Detection"[[paper](https://arxiv.org/pdf/1809.06065.pdf)]
