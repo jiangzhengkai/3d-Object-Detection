@@ -23,7 +23,7 @@
 
 * **From Points to Parts:** Shaoshuai Shi, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li."From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network"[[paper](https://arxiv.org/abs/1907.03670)]
 
-**Object as Hotspots：** Qi Chen, Lin Sun, Zhixin Wang, Kui Jia, Alan Yuille."Object as Hotspots: An Anchor-Free 3D Object Detection Approach
+* **Object as Hotspots：** Qi Chen, Lin Sun, Zhixin Wang, Kui Jia, Alan Yuille."Object as Hotspots: An Anchor-Free 3D Object Detection Approach
 via Firing of Hotspots"[[paper](https://arxiv.org/abs/1912.12791)]
 
 * **STD:** Zetong Yang, Yanan Sun, Shu Liu, Xiaoyong Shen, Jiaya Jia."STD: Sparse-to-Dense 3D Object Detector for Point Cloud"[[paper](http://jiaya.me/papers/std_iccv19.pdf)]
