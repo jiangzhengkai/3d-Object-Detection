@@ -32,6 +32,7 @@ via Firing of Hotspots"[[paper](https://arxiv.org/abs/1912.12791)]
 
 * **3DSSD:** Zetong Yang, Yanan Sun, Shu Liu, Jiaya Jia."3DSSD: Point-based 3D Single Stage Object Detector"[[paper](https://arxiv.org/pdf/2002.10187.pdf)]
 
+* **Hybrid Voxel Network:** Maosheng Ye, Shuangjie Xu, Tongyi Cao."HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection"[[paper](https://arxiv.org/abs/2003.00186)]
 
 
 
